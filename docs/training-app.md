@@ -31,6 +31,6 @@ HTML, CSS and JS modules, without a build step.
 ## APK (`mobile/`)
 - Capacitor wraps `dist/app`. The Android project is versioned in `mobile/android/`.
 - `RetourPlugin.java` forwards the system back gesture (predictive back) to the page.
-- `node mobile/icones.mjs` draws the launcher icons from `public/app/perso.js`.
+- `node mobile/icones.mjs` draws the launcher icons from the Kratos column mark, `public/favicon.svg`.
 - `.github/workflows/apk.yml` builds the APK and publishes it in the `apk` release.
 - The installed app downloads the published content at startup, so a new lesson does not require reinstalling.
