@@ -53,7 +53,7 @@ npm run check-links       # check-content + every source link responds
 npm run verify-sources    # opens each source, compares quotations and figures, writes AUDIT.md
 npm run fetch-data        # re-downloads every dataset
 npm run build && npm run pdf
-node mobile/icones.mjs    # redraws the Android icons from public/app/perso.js
+node mobile/icones.mjs    # redraws the Android icons from public/favicon.svg
 ```
 
 <!-- bootstrap:stack-sections -->
