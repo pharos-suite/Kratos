@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/favicon.svg" width="96" height="96" alt="Kratos logo" />
+</p>
+
 # Kratos
 
 Kratos is a static website of sourced lessons, in French, on power, institutions, the economy and war, for readers who want every figure and quotation linked to its primary source.
