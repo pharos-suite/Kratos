@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Kratos mark: a column, capital to base, for sourced lessons. -->
+  <rect width="512" height="512" rx="112" fill="#DED8CC"/>
+  <polygon points="112,112 400,112 372,160 140,160" fill="#2B2620"/>
+  <rect x="168" y="180" width="40" height="196" rx="8" fill="#2B2620"/>
+  <rect x="236" y="180" width="40" height="196" rx="8" fill="#2B2620"/>
+  <rect x="304" y="180" width="40" height="196" rx="8" fill="#2B2620"/>
+  <polygon points="140,396 372,396 400,428 112,428" fill="#2B2620"/>
+</svg>
